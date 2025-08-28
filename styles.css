@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 100px;
+    margin: 50px;
   }
 
 .profile-pic {
@@ -35,6 +35,7 @@ section {
   }
 
 .section-title {
+    color: #4674a0;
     border-bottom: 2px solid #ccc;
   }
 
@@ -93,5 +94,9 @@ body {
   
     .shortbio {
       color: #cccccc;
+    }
+    .section-title {
+        color: #abcded;
+        border-bottom: 2px solid #a09e9e;
     }
   }
