@@ -89,12 +89,16 @@ body {
 @media (prefers-color-scheme: dark) {
 body {
       background-color: #121212;
-      color: #ffffff;
+      color: #cccccc;
+    }
+    a {
+        color: #abcded;
     }
   
     .shortbio {
       color: #cccccc;
     }
+
     .section-title {
         color: #abcded;
         border-bottom: 2px solid #a09e9e;
